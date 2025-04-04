@@ -7,7 +7,7 @@ This project is an AI-based diagnostic system that helps farmers identify crop a
  🚀 Features
 
 - Diagnose common crop diseases (e.g., Leaf Spot, Aphid Attack, Nutrient Deficiency)
-- Identify frequent **livestock issues** (e.g., Respiratory Disease, Mange, Hoof Problems)
+- Identify frequent livestock issues (e.g., Respiratory Disease, Mange, Hoof Problems)
 - Auto-generates treatment suggestions
 - Triggers vet alerts for critical conditions
 - Simulated image input (via file names)
