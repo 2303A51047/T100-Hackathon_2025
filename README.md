@@ -2,18 +2,18 @@
 ```text
 
 
-This project is an **AI-based diagnostic system** that helps farmers identify crop and livestock diseases based on symptoms and alerts veterinarians when necessary. It improves disease management, promotes early treatment, and enhances farm productivity.
+This project is an AI-based diagnostic system that helps farmers identify crop and livestock diseases based on symptoms and alerts veterinarians when necessary. It improves disease management, promotes early treatment, and enhances farm productivity.
 
  🚀 Features
 
-- Diagnose common **crop diseases** (e.g., Leaf Spot, Aphid Attack, Nutrient Deficiency)
+- Diagnose common crop diseases (e.g., Leaf Spot, Aphid Attack, Nutrient Deficiency)
 - Identify frequent **livestock issues** (e.g., Respiratory Disease, Mange, Hoof Problems)
 - Auto-generates treatment suggestions
-- Triggers **vet alerts** for critical conditions
+- Triggers vet alerts for critical conditions
 - Simulated image input (via file names)
 - Human-friendly, clean Python code
 
-## 🧠 How It Works
+ 🧠 How It Works
 
 1. The farmer inputs:
    - Name
@@ -31,13 +31,13 @@ This project is an **AI-based diagnostic system** that helps farmers identify cr
    - Notifies the veterinarian
    - Logs an emergency alert
 
-## 📂 Project Structure
+ 📂 Project Structure
 
-├── main.py             # Core code with all classes and logic  
-├── README.md           # You're reading it!  
-└── images/             # Folder to store plant/animal images (optional)
+├── main.py             
+├── README.md           
+└── images/             
 
-## 🧪 Sample Output
+ 🧪 Sample Output
 
 🌾 AI Disease Diagnosis Report 🌿
 
@@ -53,7 +53,7 @@ Describe Symptoms: spots on leaves
 ✅ Report auto-submitted.  
 --------------------------------------------------
 
-## 🔧 How to Run
+🔧 How to Run
 
 1. Make sure you have Python 3 installed.
 2. Save the code to a file, e.g. `main.py`.
@@ -61,7 +61,7 @@ Describe Symptoms: spots on leaves
 
 python main.py
 
-## 💡 Use Case
+💡 Use Case
 
 This project is ideal for:
 - Agriculture or veterinary students
@@ -69,12 +69,12 @@ This project is ideal for:
 - Rural AI applications
 - NDLM-based farmer support tools
 
-## 📝 Future Scope
+ 📝 Future Scope
 
 - Integrate with real-time image analysis
 - Build a mobile app for field diagnosis
 - Support regional languages
 - Connect with local vet networks
 
-📬 **Made with ❤️ to support farmers**
+📬 Made with ❤️ to support farmers
 ```
